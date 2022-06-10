@@ -8,4 +8,5 @@ Trabajo final de Deep Learning
     +-  ENTREGA1.PDF
 
 Dataset original en https://www.kaggle.com/datasets/subhajournal/sdn-intrusion-detection
+
 Dataset copia y procesados en https://drive.google.com/drive/folders/167AoM113FecfCMMi6x7-Qgzk66vEk9Tq?usp=sharing
